@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ngU1aSvyaGdX47loSkx39gMn/OHr+gMQ3tFtvuPo33q/UpSl59YsSfzUIv9hwmPv7XU4sg5pzNJPRp0pZVT4rg==",
+  "dgSpecHash": "BIgLZUxtJ07rPzi/nbYB5h8RX2ARUTnxPoLh+gpikg8DofNukSxtArntHJOxVOby/hh+J12+BtraXHmDPwJr6Q==",
   "success": true,
   "projectFilePath": "D:\\Back_end\\Smartwatch\\Smartwatch\\Smartwatch.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\bootstrap\\5.3.2\\bootstrap.5.3.2.nupkg.sha512"
+  ],
   "logs": []
 }

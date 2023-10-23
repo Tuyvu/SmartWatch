@@ -1,0 +1,24 @@
+﻿
+@media(max-width:992px) {
+    .navbar-menu {
+        display: none;
+        display: none;
+        position: absolute;
+        top: 40px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 10px;
+        flex-direction: column;
+    }
+        .navbar-menu.show {
+            display: flex;
+           
+         
+        }
+        .navbar-menu.remo {
+            display: none;     
+        }
+
+    
+}

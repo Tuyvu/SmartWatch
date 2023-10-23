@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="wwwroot\images\slider\" />
+    <Folder Include="wwwroot\userLayout\images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="bootstrap" Version="5.3.2" />
   </ItemGroup>
 
 </Project>
